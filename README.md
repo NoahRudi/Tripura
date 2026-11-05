@@ -20,7 +20,7 @@ A modern web application for planning vacations with AI-powered route planning, 
 - **Payments**: Stripe (Checkout, Webhooks)
 - **PWA**: Next-PWA for app store deployment
 - **Icons**: Lucide React
-
+- **RudiBeats**: Bester DJ
 ## Getting Started
 
 ### Prerequisites
